@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Molecules.unity
     guid: 23f6d993fdca9244fa2f49cb8103c694
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 5d0c4b2e47a161e4f91424bf6da4b955,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6ba01e596f9f15d42a991021be1b704e,
+      type: 2}
